@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffef96;
 }
 
 
@@ -17,21 +17,21 @@ body {
 
 /* Header section */
 #head {
-    background-color: #333;
+    background-color: #ffef96;
     color: #fff;
     padding: 10px;
     text-align: center;
 }
 
 button {
-    background-color: #4169E1;
+    background-color: #feb236;
     color: white;
     padding: 10px;
     margin: 5px;
     border: none;
     cursor: pointer;
     font-size: 16px;
-    opacity:0.8;
+    /* opacity:0.8; */
 }
 
 button:hover {
